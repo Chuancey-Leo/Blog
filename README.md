@@ -27,4 +27,4 @@ clone或下载此repository。
 也即是现在的版本，去除了所有冗长的功能，博客只能观看博客，返回上一级或下一级都用浏览器的功能实现。而这才是设计的精髓！
 
 演示地址：
-http://115.159.191.196/Leo/BlogIndex.html
+http://115.159.191.196/Leo/blogIndex.html
